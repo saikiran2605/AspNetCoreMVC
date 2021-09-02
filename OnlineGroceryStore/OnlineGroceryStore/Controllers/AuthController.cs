@@ -67,7 +67,7 @@ namespace OnlineGroceryStore.Controllers
 
 
 
-        
+
 
         public IActionResult CustomerRegister()
         {
@@ -112,10 +112,10 @@ namespace OnlineGroceryStore.Controllers
                 return View();
             }
         }
-        public IActionResult DashBoard()
-        {
-            return View();
-        }
+        //public IActionResult DashBoard()
+        //{
+        //    return View();
+        //}
 
 
 
